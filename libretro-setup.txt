@@ -1,0 +1,9 @@
+Settings -> Video -> Output
+- Change video from gl to vulkan for slang shaders
+
+Set core shaders
+F1 (in game) -> Shaders -> Load Preset
+ (after loading) -> Manage Presets -> Save Core Preset
+
+Bsnes: shaders_slang/crt/crt-consumer-1w-ntsc-XL.slangp
+Gambatte: shaders_slang/handheld/gbc-gambatte-color.slangp
